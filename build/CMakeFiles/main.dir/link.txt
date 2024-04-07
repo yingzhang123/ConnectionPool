@@ -1,0 +1,1 @@
+/usr/bin/g++   -g -std=c++11 -fPIC -g  -rdynamic CMakeFiles/main.dir/CommonConnectionPool.o CMakeFiles/main.dir/Connection.o CMakeFiles/main.dir/main.o  -o main -lmysqlclient -lpthread 

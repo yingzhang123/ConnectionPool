@@ -1,0 +1,3 @@
+/home/zy/桌面/ConnectionPool/build/CMakeFiles/rebuild_cache.dir
+/home/zy/桌面/ConnectionPool/build/CMakeFiles/main.dir
+/home/zy/桌面/ConnectionPool/build/CMakeFiles/edit_cache.dir

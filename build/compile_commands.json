@@ -1,0 +1,17 @@
+[
+{
+  "directory": "/home/zy/桌面/ConnectionPool/build",
+  "command": "/usr/bin/g++     -g -std=c++11 -fPIC -g   -o CMakeFiles/main.dir/CommonConnectionPool.o -c /home/zy/桌面/ConnectionPool/CommonConnectionPool.cpp",
+  "file": "/home/zy/桌面/ConnectionPool/CommonConnectionPool.cpp"
+},
+{
+  "directory": "/home/zy/桌面/ConnectionPool/build",
+  "command": "/usr/bin/g++     -g -std=c++11 -fPIC -g   -o CMakeFiles/main.dir/Connection.o -c /home/zy/桌面/ConnectionPool/Connection.cpp",
+  "file": "/home/zy/桌面/ConnectionPool/Connection.cpp"
+},
+{
+  "directory": "/home/zy/桌面/ConnectionPool/build",
+  "command": "/usr/bin/g++     -g -std=c++11 -fPIC -g   -o CMakeFiles/main.dir/main.o -c /home/zy/桌面/ConnectionPool/main.cpp",
+  "file": "/home/zy/桌面/ConnectionPool/main.cpp"
+}
+]
